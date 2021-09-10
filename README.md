@@ -6,4 +6,4 @@ Ninety++
 
 | # | Title | Difficulty | Solution | Memo |
 |---| ----- | ---------- | -------- | ---- | 
-|989|[Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/) | Easy | [C++](./trunk/day01/addToArrayForm.cpp)|placeholder|
+|989|[Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/) | Easy | [C++](./trunk/day01/solution.cpp)|placeholder|
