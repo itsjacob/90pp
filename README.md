@@ -11,3 +11,4 @@ Ninety++
 |1381|[Design a Stack With Increment Operation](https://leetcode.com/problems/design-a-stack-with-increment-operation/) | Medium | [C++](./trunk/day03/solution.cpp)|placeholder|
 |394|[Decode String](https://leetcode.com/problems/decode-string/) | Medium | [C++](./trunk/day04/solution.cpp)|placeholder|
 |232|[Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | Easy | [C++](./trunk/day05/solution.cpp)|placeholder|
+|768|[Max Chunks To Make Sorted II](https://leetcode.com/problems/max-chunks-to-make-sorted-ii/) | Hard | [C++](./trunk/day06/solution.cpp)|placeholder|
