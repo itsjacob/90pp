@@ -15,3 +15,4 @@ Ninety++
 | 6 |61|[Rotate List](https://leetcode.com/problems/rotate-list/) | Medium | [C++](./trunk/day07/solution.cpp)|placeholder|
 | 7 |24|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | Medium | [C++](./trunk/day08/solution.cpp)|placeholder|
 | 8 |109|[Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/) | Medium | [C++](./trunk/day09/solution.cpp)|placeholder|
+| 9 |160|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | Easy | [C++](./trunk/day10/solution.cpp)|placeholder|
