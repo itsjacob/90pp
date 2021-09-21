@@ -17,3 +17,4 @@ Ninety++
 | 8 |109|[Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/) | Medium | [C++](./trunk/day09/solution.cpp)|placeholder|
 | 9 |160|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | Easy | [C++](./trunk/day10/solution.cpp)|placeholder|
 | 10 |142|[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | Medium | [C++](./trunk/day11/solution.cpp)|placeholder|
+| 11 |146|[LRU Cache](https://leetcode.com/problems/lru-cache/) | Medium | [C++](./trunk/day12/solution.cpp)|placeholder|
