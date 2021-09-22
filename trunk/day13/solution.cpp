@@ -11,13 +11,40 @@
  */
 
 //#define maxDepth maxDepthRecursive
-#define maxDepth maxDepthIterative_dfs_v1
-//#define maxDepth maxDepthIterative_dfs_v2
+//#define maxDepth maxDepthIterative_dfs_v1
+#define maxDepth maxDepthIterative_dfs_v2
 //#define maxDepth maxDepthIterative_bfs
 
 class Solution
 {
 public:
+  int maxDepthIterative_dfs_v2(TreeNode *root)
+  {
+    if (root == nullptr) return 0;
+    // dfs approach
+    std::stack<TreeNode *> theNodeStack;
+    std::queue<int> theDepthQueue;
+    theNodeStack.push(root);
+    theDepthQueue.push(1);
+    int maxDepth{ 0 };
+    while (!theNodeStack.empty()) {
+      TreeNode *subroot = theNodeStack.top();
+      theNodeStack.pop();
+      int curDepth = theDepthQueue.front();
+      theDepthQueue.pop();
+      maxDepth = std::max(maxDepth, curDepth);
+      if (subroot->left != nullptr) {
+        theNodeStack.push(subroot->left);
+        theDepthQueue.push(curDepth + 1);
+      }
+      if (subroot->right != nullptr) {
+        theNodeStack.push(subroot->right);
+        theDepthQueue.push(curDepth + 1);
+      }
+    }
+    return maxDepth;
+  }
+
   int maxDepthIterative_dfs_v1(TreeNode *root)
   {
     if (root == nullptr) return 0;
