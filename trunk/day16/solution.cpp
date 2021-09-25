@@ -10,11 +10,37 @@
  * };
  */
 
-#define findBottomLeftValue findBottomLeftValue_bfs
+#define findBottomLeftValue findBottomLeftValue_dfs
+//#define findBottomLeftValue findBottomLeftValue_bfs
 
 class Solution
 {
+private:
+  int dfs_res;
+  int maxDepth{ 0 };
+  void dfs(TreeNode *subroot, int curDepth)
+  {
+    if (subroot == nullptr) return;
+    if (curDepth > maxDepth) {
+      maxDepth = curDepth;
+      dfs_res = subroot->val;
+    }
+    if (subroot->left != nullptr) {
+      dfs(subroot->left, curDepth + 1);
+    }
+    if (subroot->right != nullptr) {
+      dfs(subroot->right, curDepth + 1);
+    }
+    return;
+  }
+
 public:
+  int findBottomLeftValue_dfs(TreeNode *root)
+  {
+    dfs(root, 1);
+    return dfs_res;
+  }
+
   int findBottomLeftValue_bfs(TreeNode *root)
   {
     std::queue<TreeNode *> theQueue;
