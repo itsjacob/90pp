@@ -22,3 +22,4 @@ Ninety++
 | 13 |100|[Same Tree](https://leetcode.com/problems/same-tree/) | Easy | [C++](./trunk/day14/solution.cpp)|placeholder|
 | 14 |129|[Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/) | Medium | [C++](./trunk/day15/solution.cpp)|placeholder|
 | 15 |513|[Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/) | Medium | [C++](./trunk/day16/solution.cpp)|placeholder|
+| 16 |297|[Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | Hard | [C++](./trunk/day17/solution.cpp)|placeholder|
