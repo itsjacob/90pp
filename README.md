@@ -24,3 +24,4 @@ Ninety++
 | 15 |513|[Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/) | Medium | [C++](./trunk/day16/solution.cpp)|placeholder|
 | 16 |297|[Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | Hard | [C++](./trunk/day17/solution.cpp)|placeholder|
 | 17 |987|[Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/) | Hard | [C++](./trunk/day18/solution.cpp)|placeholder|
+| 18 |1|[Two Sum](https://leetcode.com/problems/two-sum/) | Easy | [C++](./trunk/day19/solution.cpp)|placeholder|
