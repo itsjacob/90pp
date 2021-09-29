@@ -25,3 +25,4 @@ Ninety++
 | 16 |297|[Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | Hard | [C++](./trunk/day17/solution.cpp)|placeholder|
 | 17 |987|[Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/) | Hard | [C++](./trunk/day18/solution.cpp)|placeholder|
 | 18 |1|[Two Sum](https://leetcode.com/problems/two-sum/) | Easy | [C++](./trunk/day19/solution.cpp)|placeholder|
+| 19 |347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | Medium | [C++](./trunk/day20/solution.cpp)|placeholder|
