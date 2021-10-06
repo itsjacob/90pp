@@ -29,3 +29,4 @@ Ninety++
 | 20 |447|[Number of Boomerangs](https://leetcode.com/problems/number-of-boomerangs/) | Medium | [C++](./trunk/day21/solution.cpp)|placeholder|
 | 21 |3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Medium | [C++](./trunk/day22/solution.cpp)|placeholder|
 | 22 |30|[Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/) | Hard | [C++](./trunk/day23/solution.cpp)|placeholder|
+| 23 |1590|[Make Sum Divisible by P](https://leetcode.com/problems/make-sum-divisible-by-p/) | Medium | [C++](./trunk/day24/solution.cpp)|placeholder|
