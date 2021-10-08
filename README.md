@@ -31,5 +31,4 @@ Ninety++
 | 22 |30|[Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/) | Hard | [C++](./trunk/day23/solution.cpp)|placeholder|
 | 23 |1590|[Make Sum Divisible by P](https://leetcode.com/problems/make-sum-divisible-by-p/) | Medium | [C++](./trunk/day24/solution.cpp)|placeholder|
 | 24 |876|[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | Easy | [C++](./trunk/day25/solution.cpp)|placeholder|
-| 25 |26|[Remove Duplicates from Sorted Array
-](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Easy | [C++](./trunk/day26/solution.cpp)|placeholder|
+| 25 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Easy | [C++](./trunk/day26/solution.cpp)|placeholder|
