@@ -34,3 +34,4 @@ Ninety++
 | 25 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Easy | [C++](./trunk/day26/solution.cpp)|placeholder|
 | 26 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/) | Easy | [C++](./trunk/day27/solution.cpp)|placeholder|
 | 27 |239|[Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | Hard | [C++](./trunk/day28/solution.cpp)|placeholder|
+| 28 |997|[Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/) | Easy | [C++](./trunk/day29/solution.cpp)|placeholder|
