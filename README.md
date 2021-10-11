@@ -36,3 +36,4 @@ Ninety++
 | 27 |239|[Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | Hard | [C++](./trunk/day28/solution.cpp)|placeholder|
 | 28 |997|[Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/) | Easy | [C++](./trunk/day29/solution.cpp)|placeholder|
 | 29 |886|[Possible Bipartition](https://leetcode.com/problems/possible-bipartition/) | Medium | [C++](./trunk/day30/solution.cpp)|placeholder|
+| 32 |657|[Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/) | Easy | [C++](./trunk/day32/solution.cpp)|placeholder|
