@@ -19,13 +19,12 @@ public:
     };
     std::vector<std::vector<int>> cache;
     std::make_heap(cache.begin(), cache.end(), comp);
-    int time{ 0 };
+    size_t time{ 0 };
     int idx = 0;
     for (auto const &t : tasks) {
       // If the CPU idle and we haven't reached the next task enqueue time, we jump to the next task enqueue time
       if (cache.empty()) {
         time = time > tasksWithIdx[idx][0] ? time : tasksWithIdx[idx][0];
-        // time = std::max(time, tasksWithIdx[idx][0]);
       }
       while (idx < tasks.size() && tasksWithIdx[idx][0] <= time) {
         // Record processingTime and task id in the cache
