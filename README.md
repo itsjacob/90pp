@@ -38,3 +38,4 @@ Ninety++
 | 29 |886|[Possible Bipartition](https://leetcode.com/problems/possible-bipartition/) | Medium | [C++](./trunk/day30/solution.cpp)|placeholder|
 | 31 |657|[Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/) | Easy | [C++](./trunk/day32/solution.cpp)|placeholder|
 | 32 |1834|[Single-Threaded CPU](https://leetcode.com/problems/single-threaded-cpu/) | Medium | [C++](./trunk/day33/solution.cpp)|placeholder|
+| 33 |1904|[The Number of Full Rounds You Have Played](https://leetcode.com/problems/the-number-of-full-rounds-you-have-played/) | Medium | [C++](./trunk/day34/solution.cpp)|placeholder|
