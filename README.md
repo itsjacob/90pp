@@ -41,3 +41,4 @@ Ninety++
 | 33 |1904|[The Number of Full Rounds You Have Played](https://leetcode.com/problems/the-number-of-full-rounds-you-have-played/) | Medium | [C++](./trunk/day34/solution.cpp)|placeholder|
 | 34 |1737|[Change Minimum Characters to Satisfy One of Three Conditions](https://leetcode.com/problems/change-minimum-characters-to-satisfy-one-of-three-conditions/) | Medium | [C++](./trunk/day35/solution.cpp)|placeholder|
 | 35 |912|[Sort an Array](https://leetcode.com/problems/sort-an-array/) | Medium | [C++](./trunk/day36/solution.cpp)|placeholder|
+| 36 |69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/) | Easy | [C++](./trunk/day37/solution.cpp)|placeholder|
