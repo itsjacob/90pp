@@ -47,3 +47,4 @@ Ninety++
 | 41 |778|[Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water/) | Hard | [C++](./trunk/day42/solution.cpp)|placeholder|
 | 42 |1456|[Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium | [C++](./trunk/day43/solution.cpp)|placeholder|
 | 43 |837|[New 21 Game](https://leetcode.com/problems/new-21-game/) | Medium | [C++](./trunk/day44/solution.cpp)|placeholder|
+| 46 |1658|[Minimum Operations to Reduce X to Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/) | Medium | [C++](./trunk/day47/solution.cpp)|placeholder|
