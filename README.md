@@ -50,3 +50,4 @@ Ninety++
 | 44 |438|[Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | Medium | [C++](./trunk/day45/solution.cpp)|placeholder|
 | 46 |1658|[Minimum Operations to Reduce X to Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/) | Medium | [C++](./trunk/day47/solution.cpp)|placeholder|
 | 47 |401|[Binary Watch](https://leetcode.com/problems/binary-watch/) | Easy | [C++](./trunk/day48/solution.cpp)|placeholder|
+| 49 |695|[Max Area of Island](https://leetcode.com/problems/max-area-of-island/) |Medium | [C++](./trunk/day50/solution.cpp)|placeholder|
