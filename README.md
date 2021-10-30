@@ -52,3 +52,4 @@ Ninety++
 | 47 |401|[Binary Watch](https://leetcode.com/problems/binary-watch/) | Easy | [C++](./trunk/day48/solution.cpp)|placeholder|
 | 48 |52|[N-Queens II](https://leetcode.com/problems/n-queens-ii/) |Hard | [C++](./trunk/day49/solution.cpp)|placeholder|
 | 49 |695|[Max Area of Island](https://leetcode.com/problems/max-area-of-island/) |Medium | [C++](./trunk/day50/solution.cpp)|placeholder|
+| 50 |1162|[As Far from Land as Possible](https://leetcode.com/problems/as-far-from-land-as-possible/) |Medium | [C++](./trunk/day51/solution.cpp)|placeholder|
