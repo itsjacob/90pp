@@ -28,27 +28,24 @@ private:
     if (grid[0][0] <= mid) {
       aStack.emplace(0);
     }
+
+    std::vector<std::pair<int, int>> dirs{ { -1, 0 }, { 1, 0 }, { 0, -1 }, { 0, 1 } };
     while (!aStack.empty()) {
       auto me = aStack.top();
       aStack.pop();
       res.emplace(me);
+      // Early break
+      if (res.find(grid.size() * grid.size() - 1) != res.end()) return true;
       int row = me / grid.size();
       int col = me - row * grid.size();
-      for (int ii = -1; ii <= 1; ii += 2) {
-        int neighbor_col = col + ii;
-        int neighbor = row * grid.size() + neighbor_col;
-        if (neighbor_col >= 0 && neighbor_col < grid.size() && grid[row][neighbor_col] <= mid &&
-            res.count(neighbor) == 0) {
-          aStack.emplace(neighbor);
-        }
-      }
-      for (int ii = -1; ii <= 1; ii += 2) {
-        int neighbor_row = row + ii;
-        int neighbor = neighbor_row * grid.size() + col;
-        if (neighbor_row >= 0 && neighbor_row < grid.size() && grid[neighbor_row][col] <= mid &&
-            res.count(neighbor) == 0) {
-          aStack.emplace(neighbor);
-        }
+      for (auto const &dir : dirs) {
+        int neighborRow = row + dir.first;
+        int neighborCol = col + dir.second;
+        int neighbor = neighborRow * grid.size() + neighborCol;
+        if (neighborRow < 0 || neighborRow >= grid.size() || neighborCol < 0 || neighborCol >= grid.size() ||
+            grid[neighborRow][neighborCol] > mid || res.count(neighbor))
+          continue;
+        aStack.emplace(neighbor);
       }
     }
     return (res.find(grid.size() * grid.size() - 1) != res.end());
