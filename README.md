@@ -54,5 +54,6 @@ Ninety++
 | 49 |695|[Max Area of Island](https://leetcode.com/problems/max-area-of-island/) |Medium | [C++](./trunk/day50/solution.cpp)|placeholder|
 | 50 |1162|[As Far from Land as Possible](https://leetcode.com/problems/as-far-from-land-as-possible/) |Medium | [C++](./trunk/day51/solution.cpp)|placeholder|
 | 51 |694|[Shortest Cycle Containing Target Node](https://binarysearch.com/problems/Shortest-Cycle-Containing-Target-Node) |Medium | [C++](./trunk/day52/solution.cpp)|placeholder|
+| 52 |248|[Top View of a Tree](https://binarysearch.com/problems/Top-View-of-a-Tree) |hard | [C++](./trunk/day53/solution.cpp)|placeholder|
 | 53 |756|[Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) |Easy | [C++](./trunk/day54/solution.cpp)|placeholder|
 | 54 |198|[House Robber](https://leetcode.com/problems/house-robber/) |Medium | [C++](./trunk/day55/solution.cpp)|placeholder|
