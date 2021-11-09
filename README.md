@@ -57,3 +57,4 @@ Ninety++
 | 52 |248|[Top View of a Tree](https://binarysearch.com/problems/Top-View-of-a-Tree) |hard | [C++](./trunk/day53/solution.cpp)|placeholder|
 | 53 |756|[Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) |Easy | [C++](./trunk/day54/solution.cpp)|placeholder|
 | 54 |198|[House Robber](https://leetcode.com/problems/house-robber/) |Medium | [C++](./trunk/day55/solution.cpp)|placeholder|
+| 59 |464|[Can I Win](https://leetcode.com/problems/can-i-win/) |Medium | [C++](./trunk/day60/solution.cpp)|placeholder|
