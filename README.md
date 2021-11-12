@@ -59,3 +59,4 @@ Ninety++
 | 54 |198|[House Robber](https://leetcode.com/problems/house-robber/) |Medium | [C++](./trunk/day55/solution.cpp)|placeholder|
 | 59 |464|[Can I Win](https://leetcode.com/problems/can-i-win/) |Medium | [C++](./trunk/day60/solution.cpp)|placeholder|
 | 61 |494|[Target Sum](https://leetcode.com/problems/target-sum/) |Medium | [C++](./trunk/day62/solution.cpp)|placeholder|
+| 62 |494|[Coin Change](https://leetcode.com/problems/coin-change/) |Medium | [C++](./trunk/day63/solution.cpp)|placeholder|
