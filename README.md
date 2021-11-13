@@ -61,3 +61,4 @@ Ninety++
 | 61 |494|[Target Sum](https://leetcode.com/problems/target-sum/) |Medium | [C++](./trunk/day62/solution.cpp)|placeholder|
 | 62 |322|[Coin Change](https://leetcode.com/problems/coin-change/) |Medium | [C++](./trunk/day63/solution.cpp)|placeholder|
 | 63 |518|[Coin Change 2](https://leetcode.com/problems/coin-change-2/) |Medium | [C++](./trunk/day64/solution.cpp)|placeholder|
+| 64 |455|[Assign Cookies](https://leetcode.com/problems/assign-cookies/) |Easy | [C++](./trunk/day65/solution.cpp)|placeholder|
