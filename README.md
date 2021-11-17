@@ -65,3 +65,4 @@ Ninety++
 | 65 |435|[Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) |Medium | [C++](./trunk/day65/solution.cpp)|placeholder|
 | 66 |881|[Boats to Save People](https://leetcode.com/problems/boats-to-save-people/) |Medium | [C++](./trunk/day67/solution.cpp)|placeholder|
 | 67 |96|[Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/) |Medium | [C++](./trunk/day68/solution.cpp)|placeholder|
+| 68 |23|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) |Hard | [C++](./trunk/day69/solution.cpp)|placeholder|
