@@ -78,7 +78,7 @@ Ninety++
 | 69 |932|[Beautiful Array](https://leetcode.com/problems/beautiful-array/) |Medium | [C++](./trunk/day70/solution.cpp)|placeholder|
 | 70 |260|[Single Number III](https://leetcode.com/problems/single-number-iii/) |Medium | [C++](./trunk/day71/solution.cpp)|placeholder|
 | 71 |78|[Subsets](https://leetcode.com/problems/subsets/) |Medium | [C++](./trunk/day72/solution.cpp)|placeholder|
-| 72 | 208 |[Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) | Medium | [C++](./trunk/day73/solution.cpp)|todo|
+| 72 | 208 |[Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) | Medium | [C++](./trunk/day73/solution.cpp)|placeholder|
 | 73 | 677 |[Map Sum Pairs](https://leetcode.com/problems/map-sum-pairs/) | Medium | [C++](./trunk/day74/solution.cpp)|todo|
 | 74 | 17.17 |[多次搜索](https://leetcode-cn.com/problems/multi-search-lcci/) | Medium | [C++](./trunk/day75/solution.cpp)|todo|
 | 75 | 547 |[Number of Provinces](https://leetcode.com/problems/number-of-provinces/) | Medium | [C++](./trunk/day76/solution.cpp)|todo|
