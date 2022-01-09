@@ -44,7 +44,7 @@ Ninety++
 | 35 |912|[Sort an Array](https://leetcode.com/problems/sort-an-array/) | Medium | [C++](./trunk/day36/solution.cpp)|placeholder|
 | 36 |69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/) | Easy | [C++](./trunk/day37/solution.cpp)|placeholder|
 | 37 |278|[First Bad Version](https://leetcode.com/problems/first-bad-version/) | Easy | [C++](./trunk/day38/solution.cpp)|placeholder|
-| 38 |757b|[Triple Inversion](https://binarysearch.com/problems/Triple-Inversion) | Hard | [C++](./trunk/day39/solution.cpp)|todo|
+| 38 |757b|[Triple Inversion](https://binarysearch.com/problems/Triple-Inversion) | Hard | [C++](./trunk/day39/solution.cpp)|placeholder|
 | 39 |791b|[Minimum Light Radius](https://binarysearch.com/problems/Minimum-Light-Radius) | Hard | [C++](./trunk/day40/solution.cpp)|todo|
 | 40 |719|[Find K-th Smallest Pair Distance](https://leetcode.com/problems/find-k-th-smallest-pair-distance/) | Hard | [C++](./trunk/day41/solution.cpp)|placeholder|
 | 41 |778|[Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water/) | Hard | [C++](./trunk/day42/solution.cpp)|placeholder|
