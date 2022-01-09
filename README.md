@@ -66,7 +66,7 @@ Ninety++
 | 57 |62|[Unique Paths](https://leetcode.com/problems/unique-paths/) |Medium | [C++](./trunk/day58/solution.cpp)|placeholder|
 | 58 |688|[Knight Probability in Chessboard](https://leetcode.com/problems/knight-probability-in-chessboard/) |Medium | [C++](./trunk/day59/solution.cpp)|placeholder|
 | 59 |464|[Can I Win](https://leetcode.com/problems/can-i-win/) |Medium | [C++](./trunk/day60/solution.cpp)|placeholder|
-| 60 |416|[Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/) |Medium | [C++](./trunk/day61/solution.cpp)|todo|
+| 60 |416|[Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/) |Medium | [C++](./trunk/day61/solution.cpp)|placeholder|
 | 61 |494|[Target Sum](https://leetcode.com/problems/target-sum/) |Medium | [C++](./trunk/day62/solution.cpp)|placeholder|
 | 62 |322|[Coin Change](https://leetcode.com/problems/coin-change/) |Medium | [C++](./trunk/day63/solution.cpp)|placeholder|
 | 63 |518|[Coin Change 2](https://leetcode.com/problems/coin-change-2/) |Medium | [C++](./trunk/day64/solution.cpp)|placeholder|
