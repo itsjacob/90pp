@@ -51,7 +51,7 @@ Ninety++
 | 42 |1456|[Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium | [C++](./trunk/day43/solution.cpp)|placeholder|
 | 43 |837|[New 21 Game](https://leetcode.com/problems/new-21-game/) | Medium | [C++](./trunk/day44/solution.cpp)|placeholder|
 | 44 |438|[Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | Medium | [C++](./trunk/day45/solution.cpp)|placeholder|
-| 45 |76|[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | Hard | [C++](./trunk/day46/solution.cpp)|todo|
+| 45 |76|[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | Hard | [C++](./trunk/day46/solution.cpp)|placeholder|
 | 46 |1658|[Minimum Operations to Reduce X to Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/) | Medium | [C++](./trunk/day47/solution.cpp)|placeholder|
 | 47 |401|[Binary Watch](https://leetcode.com/problems/binary-watch/) | Easy | [C++](./trunk/day48/solution.cpp)|placeholder|
 | 48 |52|[N-Queens II](https://leetcode.com/problems/n-queens-ii/) |Hard | [C++](./trunk/day49/solution.cpp)|placeholder|
