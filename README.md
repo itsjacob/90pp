@@ -62,7 +62,7 @@ Ninety++
 | 53 |756|[Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) |Easy | [C++](./trunk/day54/solution.cpp)|placeholder|
 | 54 |198|[House Robber](https://leetcode.com/problems/house-robber/) |Medium | [C++](./trunk/day55/solution.cpp)|placeholder|
 | 55 |673|[Number of Longest Increasing Subsequence](https://leetcode.com/problems/number-of-longest-increasing-subsequence/) |Medium | [C++](./trunk/day56/solution.cpp)|placeholder|
-| 56 |1143|[Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) |Medium | [C++](./trunk/day57/solution.cpp)|todo|
+| 56 |1143|[Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) |Medium | [C++](./trunk/day57/solution.cpp)|placeholder|
 | 57 |62|[Unique Paths](https://leetcode.com/problems/unique-paths/) |Medium | [C++](./trunk/day58/solution.cpp)|todo|
 | 58 |688|[Knight Probability in Chessboard](https://leetcode.com/problems/knight-probability-in-chessboard/) |Medium | [C++](./trunk/day59/solution.cpp)|todo|
 | 59 |464|[Can I Win](https://leetcode.com/problems/can-i-win/) |Medium | [C++](./trunk/day60/solution.cpp)|placeholder|
