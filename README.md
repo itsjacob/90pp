@@ -81,7 +81,7 @@ Ninety++
 | 72 | 208 |[Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) | Medium | [C++](./trunk/day73/solution.cpp)|placeholder|
 | 73 | 677 |[Map Sum Pairs](https://leetcode.com/problems/map-sum-pairs/) | Medium | [C++](./trunk/day74/solution.cpp)|placeholder|
 | 74 | 17.17 |[多次搜索](https://leetcode-cn.com/problems/multi-search-lcci/) | Medium | [C++](./trunk/day75/solution.cpp)|placeholder|
-| 75 | 547 |[Number of Provinces](https://leetcode.com/problems/number-of-provinces/) | Medium | [C++](./trunk/day76/solution.cpp)|todo|
+| 75 | 547 |[Number of Provinces](https://leetcode.com/problems/number-of-provinces/) | Medium | [C++](./trunk/day76/solution.cpp)|placeholder|
 | 76 | 924 |[Minimize Malware Spread](https://leetcode.com/problems/minimize-malware-spread/) | Medium | [C++](./trunk/day77/solution.cpp)|todo|
 | 77 | 1319 |[Number of Operations to Make Network Connected](https://leetcode.com/problems/number-of-operations-to-make-network-connected/) | Medium | [C++](./trunk/day78/solution.cpp)|todo|
 | 78 | 814 |[Binary Tree Pruning](https://leetcode.com/problems/binary-tree-pruning/) | Medium | [C++](./trunk/day79/solution.cpp)|todo|
