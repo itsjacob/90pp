@@ -90,7 +90,7 @@ Ninety++
 | 81 | 47 |[Permutations II](https://leetcode.com/problems/permutations-ii/) | Medium | [C++](./trunk/day82/solution.cpp)|placeholder|
 | 82 | 28 |[Implement strStr()](https://leetcode.com/problems/implement-strstr/) | Easy | [C++](./trunk/day83/solution.cpp)|todo, BF\&RK|
 | 83 | 28 |[Implement strStr()](https://leetcode.com/problems/implement-strstr/) | Easy | [C++](./trunk/day84/solution.cpp)|todo, KMP|
-| 84 | 215 |[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | Medium | [C++](./trunk/day85/solution.cpp)|todo|
+| 84 | 215 |[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | Medium | [C++](./trunk/day85/solution.cpp)|placeholder|
 | 85 | 1046 |[Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) | Easy | [C++](./trunk/day86/solution.cpp)|todo|
 | 86 | 23 |[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | Hard | [C++](./trunk/day87/solution.cpp)|todo|
 | 87 | 451 |[Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/) | Medium | [C++](./trunk/day88/solution.cpp)|todo|
